@@ -1,0 +1,12 @@
+{
+  "name": "github-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.27.2",
+    "undici": "^5.28.4"
+  }
+}
